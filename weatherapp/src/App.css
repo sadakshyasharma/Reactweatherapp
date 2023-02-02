@@ -1,0 +1,56 @@
+body{
+  background:linear-gradient(to left, rgb(69, 214, 214) ,rgb(120, 226, 166)) ;
+}
+.image{
+
+  width: 25%;
+}
+
+.main_container{
+text-align: center;
+}
+
+/* .container{
+ border: 2px solid blue;
+} */
+
+.placeholder_btn{
+  background-color: rgb(217, 255, 0);
+  font-size: larger;
+  font-family: cursive;
+}
+
+.button{
+  background-color: aliceblue;
+  font-size: larger;
+  font-family: cursive;
+  cursor: pointer;
+}
+
+.button:hover{
+color: brown;
+background-color: rgb(18, 116, 207);
+}
+
+p{
+  font-size: medium;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Flexbox{
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  
+
+
+}
